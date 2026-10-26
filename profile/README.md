@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/playlikeboy/plb-org-profile/main/brand/logo.svg" alt="PlayLikeMen logo" width="112" />
+  <img src="https://avatars.githubusercontent.com/u/348125460" alt="PlayLikeMen logo" width="112" />
+  
   <h1>PlayLikeMen</h1>
   <p><strong>Building useful things. Sharing them openly.</strong></p>
   <p>Open-source projects, developer tools, and experiments built to help people make useful things.</p>
